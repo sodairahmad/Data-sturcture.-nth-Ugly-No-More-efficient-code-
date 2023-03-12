@@ -1,0 +1,1 @@
+# Data-sturcture.-nth-Ugly-No-More-efficient-code-
