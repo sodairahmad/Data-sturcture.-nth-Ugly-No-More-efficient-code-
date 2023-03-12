@@ -1,4 +1,4 @@
-# Data-sturcture.-nth-Ugly-No-More-efficient-code-
+# Dynamic Programming:Data-sturcture.-nth-Ugly-No-More-efficient-code-
 
 
 
